@@ -1,0 +1,38 @@
+[[main]]
+  name = "Home"
+  url = ""
+  weight = -112
+
+[[main]]
+  name = "Mountains"
+  url = "post/rich-content/"
+  weight = -111
+
+[[main]]
+  name = "Books"
+  url = "post/rich-content/"
+  weight = -110
+
+[[main]]
+  name = "Archives"
+  url = "post/rich-content/"
+  weight = -109
+
+[[main]]
+  name = "About"
+  url = "about/"
+  weight = -108
+
+# Submenus are done this way: parent -> identifier
+[[main]]
+  name = "Links"
+  identifier = "Links"
+  weight = -107
+[[main]]
+  parent = "Links"
+  name = "Facebook"
+  url = "https://www.facebook.com/"
+[[main]]
+  parent = "Links"
+  name = "Instagram"
+  url = "https://www.instagram.com/"
