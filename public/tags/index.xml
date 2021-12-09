@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Clarity</title>
-    <link>https://ashokviswanadha.com/tags/</link>
+    <link>https://ashoktest.netlify.app/tags/</link>
     <description>Recent content in Tags on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2021, Ashok Vardhan Viswanadha; All rights reserved.</copyright>
-    <lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ashokviswanadha.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ashoktest.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

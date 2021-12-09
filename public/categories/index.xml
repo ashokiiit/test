@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Clarity</title>
-    <link>https://ashokviswanadha.com/categories/</link>
+    <link>https://ashoktest.netlify.app/categories/</link>
     <description>Recent content in Categories on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2021, Ashok Vardhan Viswanadha; All rights reserved.</copyright>
-    <lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ashokviswanadha.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ashoktest.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
