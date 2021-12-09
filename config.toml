@@ -4,6 +4,6 @@ title = 'Vasuki Parvat'
 [params]
   mainSections = ['posts', 'docs', 'blogs']
 
-mobileNavigation = "left" # Mobile nav menu will open to the left of the screen.
+mobileNavigation = "right" # Mobile nav menu will open to the left of the screen.
 
 numberOfTagsShown = 4
