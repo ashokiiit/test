@@ -8,7 +8,7 @@ tags = [
     "mountains",
 ]
 categories = ['Writings', 'Mountains']
-
+thumbnail = "images/rainier.jpeg"
 +++
 
 ---
